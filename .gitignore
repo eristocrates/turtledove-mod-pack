@@ -4,4 +4,4 @@
 # Exclude exported Modrinth modpacks
 *.mrpack
 
- *.exe
+packwiz.exe
