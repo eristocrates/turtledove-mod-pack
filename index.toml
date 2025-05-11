@@ -3097,10 +3097,6 @@ file = "config/toms_storage-common.toml"
 hash = "cb2644a6bbca7895ef4ff9a7237a51302839493c7d7e9ffbea74e8bc93494b64"
 
 [[files]]
-file = "config/toolswap-client.toml"
-hash = "e5ad9382cfd17571f6af760961794e246d8548b46badb0225c072b4acca8dfc2"
-
-[[files]]
 file = "config/torchbandolier-common.toml"
 hash = "8cd567e75cdf400c91173515fd86f2ee1f1cf48bd8c790da4d0695c738477952"
 
