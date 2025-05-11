@@ -3412,11 +3412,6 @@ hash = "685f0ccf9c2595e748e07308cb4bad89df428641697ce42c9c25d6b78b878ca1"
 metafile = true
 
 [[files]]
-file = "mods/bee-fix.pw.toml"
-hash = "4595467e59cc811c7334cb33a4abc569cd2637dbc1d5ae68de6ed1f367a57d3f"
-metafile = true
-
-[[files]]
 file = "mods/beehave.pw.toml"
 hash = "444bc6ed7c80f5bdd3f380af0320856eaa622b393ef2ca1b4da6366b8321f226"
 metafile = true
@@ -3899,11 +3894,6 @@ metafile = true
 [[files]]
 file = "mods/create-quark-runes.pw.toml"
 hash = "732601388440ffdf884d4a3a03301c1931d959a030a5fa93d5bf5b1919167b8b"
-metafile = true
-
-[[files]]
-file = "mods/create-recycle-everything.pw.toml"
-hash = "1d987c4ca9901405394b0a3988a40f2e046cae68008d7f192a60890660b98394"
 metafile = true
 
 [[files]]
@@ -4807,11 +4797,6 @@ hash = "74991cede8019cf93d1243369d840913375ab3a7d448d764c7a15f87f5bc4e52"
 metafile = true
 
 [[files]]
-file = "mods/quark-delight.pw.toml"
-hash = "3530e36f831f968105b2a8f5fe476eb2045bb4ad9f04a757958a94ad81f87790"
-metafile = true
-
-[[files]]
 file = "mods/quark-engineering.pw.toml"
 hash = "de55b8342a31291b7e8cdfc69f185c447bf32224c7e8a700d0b1802e53a6c8af"
 metafile = true
@@ -5266,7 +5251,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "other/curseforge api.txt"
-hash = "5d70a211cf947e833232825c1ce066e3175287ee0d23316f63fd38a3190989ab"
+hash = "d6847c5233ee5b31243e88c127932b9c1b3f5d4a12c32743a6dd341bb517b080"
 
 [[files]]
 file = "other/curseforge.json"
