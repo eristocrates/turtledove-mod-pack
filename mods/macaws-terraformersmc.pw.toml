@@ -3,11 +3,11 @@ filename = "macawsroofsbop-1.20-1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4fa966027a2a2182682502b2166b617ad71fd6ed"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/5uSvd1Ca/versions/sRzAmAjJ/macawsroofsbop-1.20-1.1.jar"
+hash-format = "sha512"
+hash = "21a67fd3ce23863166882815ced3d47f63beef8a6d3c2be2bfbc2b456be390204c5ac4637c18aed05fa2d9a7183834d3d0bea4245ab66e922f58f6b5da78439a"
 
 [update]
-[update.curseforge]
-file-id = 5563046
-project-id = 558344
+[update.modrinth]
+mod-id = "5uSvd1Ca"
+version = "sRzAmAjJ"

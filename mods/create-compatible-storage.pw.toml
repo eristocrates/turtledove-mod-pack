@@ -3,11 +3,11 @@ filename = "create_compatible_storage-2.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b9611facd227ad1cdfe0acba94f76671ca8c984d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/5ofroZ5W/versions/20V2lqqt/create_compatible_storage-2.0.0.jar"
+hash-format = "sha512"
+hash = "8fb037d5a1916ec697f25435acff5546c059af0629ab922316ccf0afd6d0435d9c66560b45ed7a0a9334032c9034f903cf455a63e477806c171685c6468a0509"
 
 [update]
-[update.curseforge]
-file-id = 6444356
-project-id = 1247573
+[update.modrinth]
+mod-id = "5ofroZ5W"
+version = "20V2lqqt"

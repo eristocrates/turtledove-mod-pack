@@ -3,11 +3,11 @@ filename = "createnuclear-1.2.2-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d34fbedc58ad3bead25977b634106a4d6644a89b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/z611fdf7/versions/hLuVOogH/createnuclear-1.2.2-forge.jar"
+hash-format = "sha512"
+hash = "c7cdde5b9ce6c0ccef33ea0e1931023c6d0d9a404f394168ce89756e2d9f0bc7d3f2aae74417bb73a345633a6b963e1cb9826b41c14700940cfda599f5d18189"
 
 [update]
-[update.curseforge]
-file-id = 6355409
-project-id = 989797
+[update.modrinth]
+mod-id = "z611fdf7"
+version = "hLuVOogH"

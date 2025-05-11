@@ -1,0 +1,13 @@
+name = "Create Defensive"
+filename = "createdefensive-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/970O29as/versions/HaApWP8g/createdefensive-1.7.1.jar"
+hash-format = "sha512"
+hash = "4b3d766fa1f304f7d77b982a4de934708a3aa5e49bfde098d9cba0816cc622b68d958784f2fc09857fa9f7b849057cfb4646377b7acd8275f98e0ab0c25a9d0a"
+
+[update]
+[update.modrinth]
+mod-id = "970O29as"
+version = "HaApWP8g"

@@ -1,0 +1,13 @@
+name = "Create: Backtank & Jetpack Curios Compatibility"
+filename = "create-backtank-jetpack-curios-compatibility-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fbAcD82l/versions/sgN5C63G/create-backtank-jetpack-curios-compatibility-1.1.jar"
+hash-format = "sha512"
+hash = "24a0b966bba79b9fb7b6d2c91a7f0bb71165b20bc73d84549575e43c5dac4a23e348539ef6191326af11572467be64f9ed6a0beed39f72ce9f365f83dd2182b2"
+
+[update]
+[update.modrinth]
+mod-id = "fbAcD82l"
+version = "sgN5C63G"

@@ -1,13 +1,13 @@
 name = "Chunk Activity Tracker"
 filename = "chunkactivitytracker-forge-1.0.1-1.20.1.jar"
-side = "both"
+side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "d4c739c5125ece93b82ad27a8e0fd74f670cc7b3"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/BNuR43mM/versions/61oMCzZv/chunkactivitytracker-forge-1.0.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "89cfd210a4f9314ffae236b2c2382a3018a01d148e25412d2859e8f6ec3041dc844754ba18893c955e23fba7e3e366a28c2515797319c61b243027aa3233e10e"
 
 [update]
-[update.curseforge]
-file-id = 6164361
-project-id = 1193454
+[update.modrinth]
+mod-id = "BNuR43mM"
+version = "61oMCzZv"

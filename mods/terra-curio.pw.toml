@@ -3,11 +3,11 @@ filename = "TerraCurio-0.1.10-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2ee96688c103b5518d6007d58415091652e39675"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/cylFY5iL/versions/EwjQWWLs/TerraCurio-0.1.10-all.jar"
+hash-format = "sha512"
+hash = "c77797fc41093454ca3ac5770e4dff3589ea3d69c9edacef7019b1d8b7ffd7146cc408500d24fabede51d0cfda299f3ca3748f13120f572973eaafb8352fd561"
 
 [update]
-[update.curseforge]
-file-id = 5922483
-project-id = 1027625
+[update.modrinth]
+mod-id = "cylFY5iL"
+version = "EwjQWWLs"

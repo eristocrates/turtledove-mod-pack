@@ -1,13 +1,13 @@
-name = "More And More Enchantments"
+name = "More & More Enchantments"
 filename = "moreandmoreenchantments-1.0.5a-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cf28961b581d1c1cd51c2d60f7f610a0d77fdca5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/IiYh6yKP/versions/VfWCSHvX/moreandmoreenchantments-1.0.5a-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "3999543725e4ff6ba94884785f3e1c2664cb0dda16d29c54c3945d23d9b64f8a271b6ff509d36c17b8f28efc06aab31335a48f76bc926df3b85c1c400cd2aa2a"
 
 [update]
-[update.curseforge]
-file-id = 5507111
-project-id = 889000
+[update.modrinth]
+mod-id = "IiYh6yKP"
+version = "VfWCSHvX"

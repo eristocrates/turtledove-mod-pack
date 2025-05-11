@@ -1,13 +1,13 @@
-name = "Slot Cycler [Forge & Fabric]"
+name = "Slot Cycler"
 filename = "SlotCycler-v8.0.1-1.20.1-Forge.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "4704f3f4e3b06967d7f8e7ddcb704bf79b155395"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/3kl8Lmm9/versions/hxhuRoHV/SlotCycler-v8.0.1-1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "66b90aa8495f57c9d83a67d7a90d96d7bddd05476130f0aa496a8725a4460b35ce1a4ce0a29f21562f2a87782d15d868d42d60c7a72d2f06bc4fd1d251fe3291"
 
 [update]
-[update.curseforge]
-file-id = 4621870
-project-id = 682569
+[update.modrinth]
+mod-id = "3kl8Lmm9"
+version = "hxhuRoHV"

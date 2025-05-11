@@ -1,0 +1,13 @@
+name = "Inventorio"
+filename = "inventorio-mc1.20.1-forge-v1.10.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LcafSQPm/versions/QGQJlRzD/inventorio-mc1.20.1-forge-v1.10.4.jar"
+hash-format = "sha512"
+hash = "49eedfc90c46363d2d9baff16c450f44b943fc08ba753b148ff81c6477e44dd3ac9e297767e5242771cd84a8897e1be4f50d8ea99fa66fcbc6279d5df3de55b0"
+
+[update]
+[update.modrinth]
+mod-id = "LcafSQPm"
+version = "QGQJlRzD"

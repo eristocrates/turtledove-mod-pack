@@ -3,11 +3,11 @@ filename = "knavesneeds-forge-2.0+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1024f2b8c44dd48ca68586f2d482fefaede273a7"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/znkjY5Gb/versions/oTgTfnjK/knavesneeds-forge-2.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "0a0896d47a7e51ed94a74b488e0e83cb141d96c1778b0217de985d8790bae76e43c77bb8413560b82de3cc44434b12583b63b452680faa1d77530bbaa07035fe"
 
 [update]
-[update.curseforge]
-file-id = 4798238
-project-id = 813527
+[update.modrinth]
+mod-id = "znkjY5Gb"
+version = "oTgTfnjK"

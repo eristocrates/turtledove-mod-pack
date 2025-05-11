@@ -1,13 +1,13 @@
 name = "Mowzie's Mobs"
-filename = "mowziesmobs-1.7.1.jar"
+filename = "mowziesmobs-1.7.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d8a0d78de3d0792ac64a767c42ba16c43f8e0234"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/BFbX9xcm/versions/YQevKgcH/mowziesmobs-1.7.2.jar"
+hash-format = "sha512"
+hash = "56186b610c5119e7bb55943804925558a29bb5f5fab2865b2321355112659d3f74e4420c7728e10adc359261b78318bebc45e8dfdc483e999e488a5380cbb3b8"
 
 [update]
-[update.curseforge]
-file-id = 6224182
-project-id = 250498
+[update.modrinth]
+mod-id = "BFbX9xcm"
+version = "YQevKgcH"

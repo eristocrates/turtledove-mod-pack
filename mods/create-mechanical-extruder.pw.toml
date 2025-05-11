@@ -3,11 +3,11 @@ filename = "create_mecanical_extruder-1.20.1-1.6.9-6.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a9ce8ed8774984e95548253a35979bda7dd7a2fd"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/hGAlcCDJ/versions/xrCoD99D/create_mecanical_extruder-1.20.1-1.6.9-6.0.4.jar"
+hash-format = "sha512"
+hash = "0bcf001cf56ecd2d0ce7dd0dfea013b9a46a57f04984586f47754947d700ab3438c39a877e90a0678aff6b9cb59d7d2bd20489281131d86ce199e5f7e5933613"
 
 [update]
-[update.curseforge]
-file-id = 6436744
-project-id = 686100
+[update.modrinth]
+mod-id = "hGAlcCDJ"
+version = "xrCoD99D"

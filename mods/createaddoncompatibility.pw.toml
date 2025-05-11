@@ -3,11 +3,11 @@ filename = "createaddoncompatibility-0.2.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9ce0de488e84236d382a82b97585372535cfefbc"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/QgrK9rtJ/versions/T7gQFXVK/createaddoncompatibility-0.2.4.jar"
+hash-format = "sha512"
+hash = "443d8165d42ee17572f0ad3cfb7473406225bcda22607619bfcd4d94419a115ce4b02ce75431d1b9c123c9cb9312d1899b88264de41bc8a3ddaea475f5424586"
 
 [update]
-[update.curseforge]
-file-id = 6310791
-project-id = 1000148
+[update.modrinth]
+mod-id = "QgrK9rtJ"
+version = "T7gQFXVK"

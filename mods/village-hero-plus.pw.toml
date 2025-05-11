@@ -1,0 +1,13 @@
+name = "Village Hero+"
+filename = "village-hero-plus-5.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BZnc0tTs/versions/1YhC2Vj8/village-hero-plus-5.2.2.jar"
+hash-format = "sha512"
+hash = "add38ee627b0fc13d1c1b0b37641ef3bf1630d2d2584f1a9b7239d4128eb5adc3e12af9305545e144f8743e71cdeab23a9ca2bc183a3600ddbf876759308ea43"
+
+[update]
+[update.modrinth]
+mod-id = "BZnc0tTs"
+version = "1YhC2Vj8"

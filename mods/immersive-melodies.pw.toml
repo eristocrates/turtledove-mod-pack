@@ -1,13 +1,13 @@
-name = "Immersive Melodies [Fabric/Forge]"
+name = "Immersive Melodies"
 filename = "immersive_melodies-0.4.0+1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "804b386cafdead8d5a1f1d08da2bd84e95211f63"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/TaSmHw8V/versions/KViAadNz/immersive_melodies-0.4.0%2B1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "2ba146dcdd481f805030e42ac18167c2e5f2fc9c7ae4ffd3dcd4180ada88d86ea33174131ab4230900482fa3d3108523ef73ded6cdcb1bb0f4acbca885345738"
 
 [update]
-[update.curseforge]
-file-id = 6283784
-project-id = 904471
+[update.modrinth]
+mod-id = "TaSmHw8V"
+version = "KViAadNz"

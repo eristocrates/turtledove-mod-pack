@@ -3,11 +3,11 @@ filename = "molten_metals-1.20.1-0.1.4-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d5c042d0a56ec0a4c0e238215cbdf13ef6903f80"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/5ZuwMbpk/versions/qvuTRgSC/molten_metals-1.20.1-0.1.4-forge.jar"
+hash-format = "sha512"
+hash = "7566d4e874bed5b46bed5be2b6cc12e00fda314458580116f4e4366511dbd5009b35db2be9fabd9436ac594b20a6282c906e525b1d569b0ee06a986887ff7b20"
 
 [update]
-[update.curseforge]
-file-id = 5370100
-project-id = 1010908
+[update.modrinth]
+mod-id = "5ZuwMbpk"
+version = "qvuTRgSC"

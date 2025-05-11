@@ -3,11 +3,11 @@ filename = "displaydelight-1.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "89e4fc8d169d91936ef60ae28c5c0112961ce979"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/yXepZhp8/versions/dN0f5rQq/displaydelight-1.2.0.jar"
+hash-format = "sha512"
+hash = "81d9309e870713f5ea46371767fcd9f373228390fd780915c8017f8f87ba42777ee5b118673f32396a0613e497b201ed938a8d97ab47378c787764923b2236a1"
 
 [update]
-[update.curseforge]
-file-id = 5964175
-project-id = 1144296
+[update.modrinth]
+mod-id = "yXepZhp8"
+version = "dN0f5rQq"

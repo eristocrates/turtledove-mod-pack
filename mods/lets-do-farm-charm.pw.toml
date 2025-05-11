@@ -3,11 +3,11 @@ filename = "letsdo-farm_and_charm-forge-1.0.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1bb3cb3ce9387906ecbc8a9263a1bdfd58fcee42"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/HJetCzWo/versions/7agnfpHa/letsdo-farm_and_charm-forge-1.0.7.jar"
+hash-format = "sha512"
+hash = "e99c35b2da3cd7c0965c69b7500b385305aeb90c2453eee360ce3c16370be29771f671a4976f42420ed6e100629ffdb39a864c6925235bc21e3539bb6e65f127"
 
 [update]
-[update.curseforge]
-file-id = 6508214
-project-id = 1038103
+[update.modrinth]
+mod-id = "HJetCzWo"
+version = "7agnfpHa"

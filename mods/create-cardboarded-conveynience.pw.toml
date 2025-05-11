@@ -3,11 +3,11 @@ filename = "create_cardboarded_conveynience-1.20.1-0.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b9e9ecac86c1805a3adafd98277f37ea2a246b8e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/dWU6xUnj/versions/HdhW7xU4/create_cardboarded_conveynience-1.20.1-0.0.3.jar"
+hash-format = "sha512"
+hash = "6a4634f1122395177fc82a28600badce2e1b192793106ea285570f754e2490af2ad9ce3d57247c41c089b98d19dc4162095e77da82f4b2ddef456df1866c4430"
 
 [update]
-[update.curseforge]
-file-id = 6361661
-project-id = 1230892
+[update.modrinth]
+mod-id = "dWU6xUnj"
+version = "HdhW7xU4"

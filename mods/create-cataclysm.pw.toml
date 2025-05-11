@@ -3,11 +3,11 @@ filename = "create_cataclysm-0.1.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1694075f526cc0b369762860405ad67297068888"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/8bcgGESI/versions/Q1wmQvd9/create_cataclysm-0.1.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "1ffc1750411694f9fa286f131fe416b2fa5f974c7bc2c44fd8c02da7293b6f322266e7053af19a15098640360be083626751d8c4f630074c4d0580c771bf2ce1"
 
 [update]
-[update.curseforge]
-file-id = 6417097
-project-id = 1241732
+[update.modrinth]
+mod-id = "8bcgGESI"
+version = "Q1wmQvd9"

@@ -3,11 +3,11 @@ filename = "curios_munchies-0.4.0-1.20.1-eu.bsuu.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "164a93f68ddbb126eee8f0bc25349201ef0f2586"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/MttRXZhg/versions/WbPJZLF0/curios_munchies-0.4.0-1.20.1-eu.bsuu.jar"
+hash-format = "sha512"
+hash = "2a432ef4ef268dc8c986da25b8aacf49840ec0e71ce22f1bfb104af6d2098e42abc137fd884dcb807b00ee286e46581513b9900a4ce7669a3c364e9cea293750"
 
 [update]
-[update.curseforge]
-file-id = 4914707
-project-id = 940729
+[update.modrinth]
+mod-id = "MttRXZhg"
+version = "WbPJZLF0"

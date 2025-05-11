@@ -1,13 +1,13 @@
 name = "ShinyDiabete's Enchantement Pack"
 filename = "sd_enchantement_pack-forge_1.0.1.jar"
-side = "both"
+side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "2667fc966b8ad83434c3c91a901bb4107fc18375"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/oQYmyeV1/versions/Q02Ob8Mv/sd_enchantement_pack-forge_1.0.1.jar"
+hash-format = "sha512"
+hash = "4085e1ac8f36cd36146b65af06ef7ae48021297bd172d9722b26fb872f6125775d12eb32c2840ab0e0f4d506900aca7e19ace4a57079d0d6cc83211b99caee67"
 
 [update]
-[update.curseforge]
-file-id = 5541215
-project-id = 1015136
+[update.modrinth]
+mod-id = "oQYmyeV1"
+version = "Q02Ob8Mv"

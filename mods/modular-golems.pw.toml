@@ -1,0 +1,13 @@
+name = "Modular Golems"
+filename = "modulargolems-2.5.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gtGDlsAD/versions/MIUAAsys/modulargolems-2.5.19.jar"
+hash-format = "sha512"
+hash = "fc9e85da5c12a8e91ba4c02c29d8432ea2e495f8b4759974b3c8d28cb93bf34c7098de192633abab4702e86a209629bf766683b02cf89182e3fbc40f2d03bde5"
+
+[update]
+[update.modrinth]
+mod-id = "gtGDlsAD"
+version = "MIUAAsys"

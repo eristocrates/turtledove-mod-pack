@@ -1,13 +1,13 @@
-name = "Mob Lootbags"
-filename = "mob_loot_bags-1.8.0-forge-1.20.1.jar"
+name = "Mob LootBags"
+filename = "mob_loot_bags-1.9.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3d84084b4c3246a7534758e41920d26adc47b1d2"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/uEntVAnd/versions/nkg25Cq4/mob_loot_bags-1.9.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "a39a986fc28ccc9ecbcb3444d74ac3f4888e231fcffb8fcf05cfab3228b2b279e69254c3c62467efa4535897a1d8eb1676f3a762bc886beb891318d786306a38"
 
 [update]
-[update.curseforge]
-file-id = 6401416
-project-id = 1093276
+[update.modrinth]
+mod-id = "uEntVAnd"
+version = "nkg25Cq4"

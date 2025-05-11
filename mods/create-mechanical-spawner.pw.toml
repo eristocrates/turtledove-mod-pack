@@ -3,11 +3,11 @@ filename = "create_mechanical_spawner-1.20.1-0.1.5-6.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a8987355a10d22813c3d13f99be382476f2a2f5c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/T1hmeGi9/versions/e8mOfErW/create_mechanical_spawner-1.20.1-0.1.5-6.0.4.jar"
+hash-format = "sha512"
+hash = "a6c9f56e56433a52de241de39a5276d5953f5279bee44ca6a2a0114a4a6f1e14f48e2aaf6ede3dab1521f5ca9789f107b01951172504e76f0cbf240182142e0d"
 
 [update]
-[update.curseforge]
-file-id = 6357961
-project-id = 821828
+[update.modrinth]
+mod-id = "T1hmeGi9"
+version = "e8mOfErW"

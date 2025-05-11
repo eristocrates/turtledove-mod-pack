@@ -1,13 +1,13 @@
-name = "BdLib"
+name = "bdlib"
 filename = "bdlib-1.27.0.8-mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d29b7226d10005a649ec089e626efa534ee88598"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/80j65Nbw/versions/oChV3Jik/bdlib-1.27.0.8-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "b244d3be50b2d7255b7c0b75255fa5e2b33db4e813eddf91d8079cb19148f2527ba05b9fbff3259605d33df974b46c7cc9104d0aa967a32c3d114e289e44d608"
 
 [update]
-[update.curseforge]
-file-id = 4670650
-project-id = 70496
+[update.modrinth]
+mod-id = "80j65Nbw"
+version = "oChV3Jik"

@@ -1,0 +1,13 @@
+name = "More Music"
+filename = "More-Music-1.20.1-Fixed.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ntw6vpSk/versions/LSEBdTOf/More-Music-1.20.1-Fixed.zip"
+hash-format = "sha512"
+hash = "2125b0cc802d263595f31dbdd6f031b2da9281c818c215451d58451fa24aed18b90e3d2d6a923f3de85e0bdbb2bee2d36b25f4cbcb4b1818c7a1cf6bcee741db"
+
+[update]
+[update.modrinth]
+mod-id = "ntw6vpSk"
+version = "LSEBdTOf"

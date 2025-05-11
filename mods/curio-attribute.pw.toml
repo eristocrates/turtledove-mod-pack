@@ -1,0 +1,13 @@
+name = "Curio Attribute"
+filename = "curioattribute-1.4.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/igDhltoO/versions/mKZkWY7Y/curioattribute-1.4.5.jar"
+hash-format = "sha512"
+hash = "cf6d5260fc25dcd29782c07d0e603a7167610eb0aec8095c81e91aa55199046cbbb0a11291e2adc9e976bf0600dc2d9c8359a8008a40dae58cd28ae32d22a357"
+
+[update]
+[update.modrinth]
+mod-id = "igDhltoO"
+version = "mKZkWY7Y"

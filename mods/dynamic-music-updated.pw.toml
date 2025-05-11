@@ -1,13 +1,13 @@
 name = "Dynamic Music Updated"
 filename = "dynmus-v2.3.2+1.20-forge.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "11463d7dc7abab66a13eda2b9bdf4ea156eb508f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ilfn0HT9/versions/kci0a7lY/dynmus-v2.3.2%2B1.20-forge.jar"
+hash-format = "sha512"
+hash = "7d4345807490cfc72adf9491d5ab4b203e473e9c760a918861a158ab950b657b67564d243235dcec3da2615074cbfab9dcd778633aa08b802d3f909078b2e11c"
 
 [update]
-[update.curseforge]
-file-id = 4708276
-project-id = 690182
+[update.modrinth]
+mod-id = "ilfn0HT9"
+version = "kci0a7lY"

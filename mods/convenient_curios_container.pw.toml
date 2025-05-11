@@ -1,0 +1,13 @@
+name = "Convenient Curios Container"
+filename = "convenientcurioscontainer-1.13-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jIJyY7rq/versions/Qv8YoS72/convenientcurioscontainer-1.13-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "f179479407ffc431c096163c0fcd660873d68e91708cfa84731abb1d323e2cde69a3767494c7ba01a9a98d3da684198ebbb258aaabd8ab42edfa43be9553b185"
+
+[update]
+[update.modrinth]
+mod-id = "jIJyY7rq"
+version = "Qv8YoS72"

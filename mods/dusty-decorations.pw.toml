@@ -3,11 +3,11 @@ filename = "DustyDecorations_1.20.1Forge_V1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8fc2bb05552bd3b80646183e9a0ff4ffc157c9dd"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/KgFOuaiZ/versions/zmgN8Y2Y/DustyDecorations_1.20.1Forge_V1.0.jar"
+hash-format = "sha512"
+hash = "1fe402f2621760e8e425a148296638bcab799fdfbecc8f4c146d172214fd35ee254a00bddb40019d6cd6c7a598be7df9910ac8cc743df91e1b77ef274985239f"
 
 [update]
-[update.curseforge]
-file-id = 6231964
-project-id = 843344
+[update.modrinth]
+mod-id = "KgFOuaiZ"
+version = "zmgN8Y2Y"

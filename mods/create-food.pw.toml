@@ -3,11 +3,11 @@ filename = "create-food-1.20.1-1.1.10-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "22801c0f24badabfc9b53da7b250d2b2845f3d71"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/4HnO3el1/versions/wzfyAIgJ/create-food-1.20.1-1.1.10-forge.jar"
+hash-format = "sha512"
+hash = "551f61f1d3ea95312e519f565c7acd7cba6dc72df5bb4b2ecd6241c027e28915496a97c466937255ee10a50e05b5b1b0e985a40c2936bc37d6e6eb592a4aeab3"
 
 [update]
-[update.curseforge]
-file-id = 6302279
-project-id = 959439
+[update.modrinth]
+mod-id = "4HnO3el1"
+version = "wzfyAIgJ"

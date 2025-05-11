@@ -1,0 +1,13 @@
+name = "Create: Extra Additions"
+filename = "extra_additions-1.1.7.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rcu3XiGV/versions/C4DfzosL/extra_additions-1.1.7.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "97dc6327bc062e92fd948ee0ccbe25c7a9a0fdbc28177092fb0e5d0ccb1cc2d6897f289dcb44f3568e2f27172ebe99871e526698b0b618cfd8fa379ba8547670"
+
+[update]
+[update.modrinth]
+mod-id = "Rcu3XiGV"
+version = "C4DfzosL"

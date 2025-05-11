@@ -3,11 +3,11 @@ filename = "loot_geodes-1.0.1-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "85568f4ce630edfc8a24b36ea0568459f803b58d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/AEtc4tpQ/versions/gM3KDRA5/loot_geodes-1.0.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "1b021735eb24eb6418db585bfbebfe8e97e9722333fdd68b949751c571463afbeb5ebe07490b6c205d7b75ea745b1a929acd351de00c5ebc886119e0c767fab3"
 
 [update]
-[update.curseforge]
-file-id = 5591372
-project-id = 1075885
+[update.modrinth]
+mod-id = "AEtc4tpQ"
+version = "gM3KDRA5"

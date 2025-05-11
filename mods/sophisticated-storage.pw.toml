@@ -1,0 +1,13 @@
+name = "Sophisticated Storage"
+filename = "sophisticatedstorage-1.20.1-1.3.41.1143.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hMlaZH8f/versions/P4AuNafo/sophisticatedstorage-1.20.1-1.3.41.1143.jar"
+hash-format = "sha512"
+hash = "8fcfd6a98bcd6f7787f0f87772630b74400c0a9b0bb1ac161f16cc490fd82cb180f435cb62227b53aff13ce1b32b4eb81652055348fe36a31ad493a9057e24cf"
+
+[update]
+[update.modrinth]
+mod-id = "hMlaZH8f"
+version = "P4AuNafo"

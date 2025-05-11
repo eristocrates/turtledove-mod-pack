@@ -3,11 +3,11 @@ filename = "charms-and-medallions-v1.0.2-v1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9ad872daa01ee0c1b42be6efe3fae4e96773cdd9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/f3CQ0pMV/versions/qp2XfpRk/charms-and-medallions-v1.0.2-v1.20.1.jar"
+hash-format = "sha512"
+hash = "5ea12fb487d11ca325dc62920214882c6983cc526ec150af80338c6b4c21b790abb0b534b09632497dd275008d1439d26b472480c896aefc1be7c03017ec71a2"
 
 [update]
-[update.curseforge]
-file-id = 5574829
-project-id = 1023731
+[update.modrinth]
+mod-id = "f3CQ0pMV"
+version = "qp2XfpRk"

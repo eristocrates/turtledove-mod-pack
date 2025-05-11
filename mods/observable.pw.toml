@@ -3,11 +3,11 @@ filename = "observable-4.4.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c8a0ae25512d0cedef478df411c87e43703ae237"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/VYRu7qmG/versions/QtSVNyjm/observable-4.4.2.jar"
+hash-format = "sha512"
+hash = "edb20a8f7d27f7a01340cd3bc0fa08124de4ba651ce2872bec5cfcf8d275f03e7b160f38073143f0da61c0916aba2c5628b9a7ca657d10e397aa9ced6898dff7"
 
 [update]
-[update.curseforge]
-file-id = 5643037
-project-id = 509575
+[update.modrinth]
+mod-id = "VYRu7qmG"
+version = "QtSVNyjm"

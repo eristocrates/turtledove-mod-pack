@@ -3,11 +3,11 @@ filename = "totemfactory-1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6fbfb405b80f0ef1bacd813e48fa0208333716e2"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ae2lDuIP/versions/lUKKLn9m/totemfactory-1.0.jar"
+hash-format = "sha512"
+hash = "979ea7d3b118ff7e8584fa93d89168c83fd3a776b6562430c859ebb9c6a2168550a9e304097757b4055ac83d852dccb5a05027a2b0eb9b53ac4a784b20f63e0b"
 
 [update]
-[update.curseforge]
-file-id = 5131499
-project-id = 978675
+[update.modrinth]
+mod-id = "ae2lDuIP"
+version = "lUKKLn9m"

@@ -3,11 +3,11 @@ filename = "chromaticenchantments-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0ff739cd09053449737ecc64f0370779e7797f7b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/TinSqxwh/versions/UA4UqD8p/chromaticenchantments-1.1.0.jar"
+hash-format = "sha512"
+hash = "4544614a07bae06ea7b9e736ba78397d095f689e522404b0167cbae0bd9c04050876eb5ed5262c37881a753c1777624a6b7ff1d4d95a9f3df1fc3af072b742bc"
 
 [update]
-[update.curseforge]
-file-id = 5334278
-project-id = 988714
+[update.modrinth]
+mod-id = "TinSqxwh"
+version = "UA4UqD8p"

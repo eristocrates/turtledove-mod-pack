@@ -1,13 +1,13 @@
 name = "Real Camera"
 filename = "realcamera-1.20.1-forge-0.6.1-beta.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "71cd86895b1b96babd246b31f67f80249f003c86"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/fYYSAh4R/versions/20tdza7t/realcamera-1.20.1-forge-0.6.1-beta.jar"
+hash-format = "sha512"
+hash = "e84d12c89fb077eb9d8e877cc11d9d0d876ad1a7d41a826625158eb8e7768510ddce430f7c284af1f2a3590221dce46afbf2aea79db785b73bae7f7f32b92e1e"
 
 [update]
-[update.curseforge]
-file-id = 5328994
-project-id = 851574
+[update.modrinth]
+mod-id = "fYYSAh4R"
+version = "20tdza7t"

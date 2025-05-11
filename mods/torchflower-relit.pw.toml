@@ -1,13 +1,13 @@
 name = "Torchflower: Relit"
 filename = "torchflower_relit-1.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "ba7c8841fcb6534733c1fccdd436c64464485efd"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/hXkAAXvL/versions/DRm70FKR/torchflower_relit-1.0.0.jar"
+hash-format = "sha512"
+hash = "42952479305ec364417b388d077915fc8584787bdcc79569e23ecdccfedf8885bb6b66b8de722778f5f16db9e8c77dc8ba58c7a4f1190051d4976c11d836460e"
 
 [update]
-[update.curseforge]
-file-id = 4736524
-project-id = 909902
+[update.modrinth]
+mod-id = "hXkAAXvL"
+version = "DRm70FKR"

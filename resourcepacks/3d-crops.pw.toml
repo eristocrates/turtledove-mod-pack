@@ -1,0 +1,13 @@
+name = "3D crops Revamped"
+filename = "crops-3d.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PgpTtNoI/versions/Pw18Zdmz/crops-3d.zip"
+hash-format = "sha512"
+hash = "a76a5d20cfe9f9f5be7a3d705cb06c93e9892e19c3d054fdb9766b241be600bf2c8a3f4c430da6e6661488945d8697966d05951c8164ee7ca8a1d64b452e9ed1"
+
+[update]
+[update.modrinth]
+mod-id = "PgpTtNoI"
+version = "Pw18Zdmz"

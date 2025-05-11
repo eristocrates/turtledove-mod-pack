@@ -1,0 +1,13 @@
+name = "Brew'n Chew"
+filename = "brewchew-1.20.1-5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uLcNhZHo/versions/fTWvsEtR/brewchew-1.20.1-5.0.jar"
+hash-format = "sha512"
+hash = "c37da45c4132a22f7f490175285c68e56091184876e449e1cc4fe489b527cf9c145535737cbc467683f60425831172c663e154bee127ef0e984d7cb538e278ad"
+
+[update]
+[update.modrinth]
+mod-id = "uLcNhZHo"
+version = "fTWvsEtR"

@@ -3,11 +3,11 @@ filename = "torchflower_arrows-1.20.1-1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1bcb490d1da80d9ca233976b25de77854243c4a1"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/kpaHKrJb/versions/WbRa1cR9/torchflower_arrows-1.20.1-1.0.jar"
+hash-format = "sha512"
+hash = "ccf935f2dba10ca35128373eea471d4f61a85831c4b31f679a5bead56b81a03d812eb160c9e19efff628ddfbf4e0b5b0535149ab0b361adaade248e31da9c797"
 
 [update]
-[update.curseforge]
-file-id = 4612351
-project-id = 881488
+[update.modrinth]
+mod-id = "kpaHKrJb"
+version = "WbRa1cR9"
