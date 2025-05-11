@@ -6,7 +6,7 @@ hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
 
 [[files]]
 file = "README.md"
-hash = "5d7079d02b0032219748b163b4a402baeb1d90d384cc68f8b83925ed94fd9d69"
+hash = "b6739c257a72fcf427369e8f686f11ccd636edc4ffbaa7c7b0e6c5ee3b290951"
 
 [[files]]
 file = "config/.toolswap"
@@ -1433,10 +1433,6 @@ file = "config/enhanced_bes.properties"
 hash = "1d3a7d86b5a7891394e3200ca9a25d4184b98f9844531b3358f014e5b8868149"
 
 [[files]]
-file = "config/entityculling.json"
-hash = "da3ceeb2e4b7e7f2d26de8bd6276f673702174378a7729187ef4491a7bbd3aee"
-
-[[files]]
 file = "config/everycomp-common.toml"
 hash = "5c188c5e57b9e74cdd48a753ab4bdf20153afbc4df17f2041a0d0ff4f68106e9"
 
@@ -2821,14 +2817,6 @@ file = "config/sereneseasons/seasons.toml"
 hash = "4fe5c2073c3a7a58c6388467b853347a09dffb9d67c2bd86bf57c9dcb3970bf2"
 
 [[files]]
-file = "config/servercore/config.yml"
-hash = "d9d37a9c19cd389e74fe0d14227b84671fd4136861c7b8dbff31dcf98ceeb77d"
-
-[[files]]
-file = "config/servercore/optimizations.yml"
-hash = "299965ce464b4c0bb4a79dfd2dba2cdfd63f3360628b0d5b0d3b3988003f4f0d"
-
-[[files]]
 file = "config/simple_weapons.toml"
 hash = "38fc5d85858b8e6f74865f37c294460b5d19a1f7f06d45529188fb572b827f10"
 
@@ -2891,10 +2879,6 @@ hash = "f939b3c7e04ac677da5a6f83ef56d52ddaeb869cd98d7ff2dccfa3ef83ef63d8"
 [[files]]
 file = "config/simplyswords_main/weapon_attributes.json5"
 hash = "6f794ab26ccec8d189c3e15374cb1ad965acaff5f3dcf0402387218ee02638cb"
-
-[[files]]
-file = "config/skinlayers.json"
-hash = "91dda7ff0e6d52d1d99d8196cd5f5e3d165075c194e19344fa8a034ef39b6a4c"
 
 [[files]]
 file = "config/sleep_tight-client.toml"
@@ -4737,11 +4721,6 @@ hash = "a1d3b1b3f1a9ec557cbe63ea70dfc6f7048312ae5f807a7f0ebaa3278dcef594"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "8e7de616ed5eaba305502d2b7711b7e38353f6e7bcbf3dabd97565a2e7bdca73"
-metafile = true
-
-[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "f16fd7fba2242ba733897eeaaa09cb27e01a438d240e175a26c956319f8a1561"
 metafile = true
@@ -5286,12 +5265,12 @@ file = "options.txt"
 hash = "78916cecd4804bad9bbeae8892a2dda0164b53985ad012abbe398d2f026cea8b"
 
 [[files]]
-file = "packwiz-install_windows_x64.exe"
-hash = "f6608570d9c2a1828e6e2ac353b678dd0395471d35ecc470f81cfdf34391d039"
-
-[[files]]
 file = "prismExports/all.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "prismExports/curseforge api.txt"
+hash = "5d70a211cf947e833232825c1ce066e3175287ee0d23316f63fd38a3190989ab"
 
 [[files]]
 file = "prismExports/curseforge.json"
@@ -5299,11 +5278,11 @@ hash = "9f96f360a3586ecd7a18945ab8cfe455e0d589ebd555172ebbad913e4de0c1d4"
 
 [[files]]
 file = "prismExports/curseforge.txt"
-hash = "a890fbb9b5fb712b144f219ea152dba78ed5406ce2880cf9d5ed44663106bb3d"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "prismExports/modrinth.txt"
-hash = "0b85feed7bf8b8cfcdc7dbbd88f81e16daa748f17dc17f678b64ad2503a30b55"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
