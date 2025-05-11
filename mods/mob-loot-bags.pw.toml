@@ -1,0 +1,13 @@
+name = "Mob Lootbags"
+filename = "mob_loot_bags-1.8.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3d84084b4c3246a7534758e41920d26adc47b1d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6401416
+project-id = 1093276

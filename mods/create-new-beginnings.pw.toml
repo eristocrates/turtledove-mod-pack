@@ -1,0 +1,13 @@
+name = "Create: New Beginnings"
+filename = "createnewbeg-0.1.0-1.20.1-c6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c46ccf47cb5955699f88e43139e92c705a9b8bcb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6281960
+project-id = 1090260

@@ -1,0 +1,13 @@
+name = "Torchflower: Relit"
+filename = "torchflower_relit-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba7c8841fcb6534733c1fccdd436c64464485efd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4736524
+project-id = 909902

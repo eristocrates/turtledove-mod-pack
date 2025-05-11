@@ -1,0 +1,107 @@
+
+["Hero Shield"]
+	#Chance that hero shield will ignore damage
+	Chance = 0.1
+	#Explosion damage taken in percentage
+	"Explosion Damage Taken" = 0.25
+
+["Obsidian Skull"]
+	#Fire damage taken in percentage
+	"Fire Damage Taken" = 0.5
+
+["Obsidian Shield"]
+	#Fire damage taken in percentage
+	"Fire Damage Taken" = 0.5
+
+["Ankh Shield"]
+	#Fire damage taken in percentage
+	"Fire Damage Taken" = 0.5
+
+["Venom amulet"]
+	#Chance to apply posion
+	"Poison Chance" = 0.4
+
+["Decay Amulet"]
+	#Chance to apply wither
+	"Wither Chance" = 0.4
+
+["Spectre Amulet"]
+	#Chance to heal
+	"Heal Chance" = 0.4
+
+["Necroplasm Amulet"]
+	#Chance to heal
+	"Heal Chance" = 0.5
+	#Chance to apply poison
+	"Poison Chance" = 0.6
+	#Chance to apply wither
+	"Wither Chance" = 0.6
+
+["Mechanical Glove"]
+	#Attack Damage increase
+	"Attack Damage" = 2.0
+
+[Shackle]
+	#Armor increase
+	Armor = 1.0
+
+["Melody Plushie"]
+	#Max Health Increase percentage
+	"Max Health" = 0.2
+
+["Enderian Scarf"]
+	#Damage taken in percentage
+	"Damage Taken" = 0.92
+
+["True Enderian Scarf"]
+	#Damage taken in percentage
+	"Damage Taken" = 0.9
+	#Chance to evade an attack
+	"Evade Chance" = 0.1
+	#Amount of reach gain
+	"Reach gain" = 1.0
+
+["Gilded Scarf"]
+	#Damage taken in percentage
+	"Damage Taken" = 0.88
+	#Increased damage dealt in percentage
+	"Damage Dealt" = 1.1
+
+["Lucky Emerald Ring"]
+	#Increased damage dealt against illagers in percentage
+	"Damage Dealt" = 1.25
+	#Chance for on hit to drop an emerald
+	"Emerald Chance" = 0.05
+
+["Magic Quiver"]
+	#Increased arrow damage dealt in percentage
+	"Arrow Damage" = 1.08
+
+["Envenomed Quiver"]
+	#Increased arrow damage dealt in percentage
+	"Arrow Damage" = 1.1
+
+["Molten Quiver"]
+	#Increased arrow damage dealt in percentage
+	"Arrow Damage" = 1.1
+	#Increased on fire bonus arrow damage in percentage
+	"On fire bonus" = 1.05
+
+["Wooden Headgear"]
+	#Armor increase
+	Armor = 1.0
+	#Damage taken in percentage
+	"Damage taken" = 0.95
+
+["Golden Headgear"]
+	#Armor increase
+	Armor = 2.0
+	#Damage taken in percentage
+	"Damage taken" = 0.9
+
+["Netherite Headgear"]
+	#Armor increase
+	Armor = 3.0
+	#Damage taken in percentage
+	"Damage taken" = 0.85
+

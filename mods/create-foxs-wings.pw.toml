@@ -1,0 +1,13 @@
+name = "Create:  Fox's Wings"
+filename = "elytramodfox-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f3cebd31bac0681c6315c7fb97b60be614f8e70"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5782389
+project-id = 1087807

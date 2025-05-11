@@ -1,0 +1,13 @@
+name = "Torchflower Arrows"
+filename = "torchflower_arrows-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1bcb490d1da80d9ca233976b25de77854243c4a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4612351
+project-id = 881488

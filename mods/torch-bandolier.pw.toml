@@ -1,0 +1,13 @@
+name = "Torch Bandolier"
+filename = "torch-bandolier-1.20.1-1.10.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3f5a0be5eaa5106d45faf503ff1f19b314e41a0e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4587731
+project-id = 299337

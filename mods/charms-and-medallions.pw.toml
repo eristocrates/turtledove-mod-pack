@@ -1,0 +1,13 @@
+name = "Charms & Medallions"
+filename = "charms-and-medallions-v1.0.2-v1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ad872daa01ee0c1b42be6efe3fae4e96773cdd9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5574829
+project-id = 1023731

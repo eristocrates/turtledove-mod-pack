@@ -1,0 +1,13 @@
+name = "More And More Enchantments"
+filename = "moreandmoreenchantments-1.0.5a-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf28961b581d1c1cd51c2d60f7f610a0d77fdca5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5507111
+project-id = 889000

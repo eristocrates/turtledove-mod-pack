@@ -1,0 +1,13 @@
+name = "DragonLib"
+filename = "dragonlib-forge-1.20.1-2.2.24.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c301e85a1fdd2999a66f5c26767572924ee50afe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6053756
+project-id = 946163

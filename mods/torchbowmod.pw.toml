@@ -1,0 +1,13 @@
+name = "TorchBowMod"
+filename = "[1.20][Forge]TorchBowMod_v1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65094be930a2c9f4e5766247cc5385ddcbcd14e2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4574052
+project-id = 289658

@@ -1,0 +1,13 @@
+name = "Chromatic Enchantments"
+filename = "chromaticenchantments-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ff739cd09053449737ecc64f0370779e7797f7b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5334278
+project-id = 988714

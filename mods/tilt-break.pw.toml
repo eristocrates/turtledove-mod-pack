@@ -1,0 +1,13 @@
+name = "Tilt Break (Old Damage Tilting)"
+filename = "TiltBreak-1.20.1-1.4FE.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9a39d671ed82adb997730a713ff1972fd2e61e2d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4730322
+project-id = 843613

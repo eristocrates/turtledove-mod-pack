@@ -1,0 +1,13 @@
+name = "Curios Munchies"
+filename = "curios_munchies-0.4.0-1.20.1-eu.bsuu.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "164a93f68ddbb126eee8f0bc25349201ef0f2586"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4914707
+project-id = 940729

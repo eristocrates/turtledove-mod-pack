@@ -1,0 +1,13 @@
+name = "Ender's Delight"
+filename = "endersdelight-forge-1.20.1-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d66483f558f7f45bfb91ac88c9505e1e17e683a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6415563
+project-id = 827163

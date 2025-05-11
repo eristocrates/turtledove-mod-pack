@@ -1,0 +1,13 @@
+name = "Create: Station Decor"
+filename = "createstation_decor-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3766c5bfdfb27a10bfc79ac76d02dd144562f18d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5902799
+project-id = 1029202

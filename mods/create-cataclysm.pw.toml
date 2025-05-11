@@ -1,0 +1,13 @@
+name = "Create: Cataclysm"
+filename = "create_cataclysm-0.1.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1694075f526cc0b369762860405ad67297068888"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6417097
+project-id = 1241732

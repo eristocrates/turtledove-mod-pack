@@ -1,0 +1,13 @@
+name = "Loot Geodes"
+filename = "loot_geodes-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "85568f4ce630edfc8a24b36ea0568459f803b58d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5591372
+project-id = 1075885

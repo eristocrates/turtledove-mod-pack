@@ -1,0 +1,14 @@
+{
+  "TECHNICAL": {
+    "VERSION_DO_NOT_EDIT": 1,
+    "FORCE_RELOAD": false
+  },
+
+  "combat_bash": {
+    "damage": 4,
+    "player_knockback": 1,
+    "target_knockback": 1,
+    "extra_exhaustion": 0.03,
+    "roll_immunity": true
+  }
+}

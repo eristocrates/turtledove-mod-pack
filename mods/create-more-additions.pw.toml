@@ -1,0 +1,13 @@
+name = "Create: Crafts & (More) Additions [Forge/Fabric]"
+filename = "create_more_additions-1.6.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b091e0c33a53779ff353ff21d3d211d5745f8864"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6326257
+project-id = 1096395

@@ -1,0 +1,13 @@
+name = "Dynamic Music Updated"
+filename = "dynmus-v2.3.2+1.20-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11463d7dc7abab66a13eda2b9bdf4ea156eb508f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4708276
+project-id = 690182

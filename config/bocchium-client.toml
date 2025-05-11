@@ -1,0 +1,5 @@
+
+[BocchiTheBedrock]
+	shouldCullTopBedrock = true
+	shouldCullBottomBedrock = true
+

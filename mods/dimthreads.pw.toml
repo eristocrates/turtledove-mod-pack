@@ -1,0 +1,16 @@
+name = "Dimensional Threading Reforked"
+filename = "dimthread-FORGE-mc1.20.1-v1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "89a0d375b7aa99a7c8fd28decc39f4d36b9127c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5937939
+project-id = 955545
+
+[option]
+optional = true

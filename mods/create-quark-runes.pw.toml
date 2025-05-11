@@ -1,0 +1,13 @@
+name = "Create: Quark Runes"
+filename = "Butters-CreateQuarkRecipe-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a7953ec8b8ab7172382edee739b09b2b25009887"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5331173
+project-id = 1012531

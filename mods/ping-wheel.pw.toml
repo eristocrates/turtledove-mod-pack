@@ -1,0 +1,13 @@
+name = "Ping Wheel"
+filename = "Ping-Wheel-1.10.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "183c1004a2e58e4ba1b2d1406205bda31c14d63e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6352029
+project-id = 734339

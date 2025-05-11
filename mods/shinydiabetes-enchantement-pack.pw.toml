@@ -1,0 +1,13 @@
+name = "ShinyDiabete's Enchantement Pack"
+filename = "sd_enchantement_pack-forge_1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2667fc966b8ad83434c3c91a901bb4107fc18375"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5541215
+project-id = 1015136

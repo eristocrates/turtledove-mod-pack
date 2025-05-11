@@ -1,0 +1,13 @@
+name = "Beehave"
+filename = "beehave-1.20.1-forge-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31fe0367b2adff10d521bc68bc624453528ea999"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6060831
+project-id = 880165

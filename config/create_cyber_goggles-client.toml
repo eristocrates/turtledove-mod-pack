@@ -1,0 +1,33 @@
+
+[Armor]
+	removeBoxOverlay = false
+	removeNetheriteFirstPerson = false
+	removeDivingBootsAffect = false
+
+[ChainConveyor]
+	alwaysAllowRiding = false
+	preventFalling = false
+	separationDistance = 3
+	separationHeight = -1
+	enhancedConnection = true
+
+[Filter]
+	enableOpenFilterScreen = true
+
+[Flywheel]
+	forcedBackend = false
+
+[Goggles]
+	enableInSurvival = true
+	enableInCreative = true
+	enableInSpectator = true
+	enableInAdventure = true
+	enhancedInfo = true
+	enhancedStoreRender = true
+	renderExtraItems = true
+	enableKineticEffect = true
+	preciseNumbers = true
+
+[Wrench]
+	alwaysAllowRotating = true
+

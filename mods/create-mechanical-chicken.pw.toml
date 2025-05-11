@@ -1,0 +1,13 @@
+name = "Create Mechanical Chicken"
+filename = "create_mechanical_chicken-1.20.1-1.1.5-6.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d7fc9c5b0020feeb35d5c5cfa2cd1ba1a7d52c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6273073
+project-id = 1107296

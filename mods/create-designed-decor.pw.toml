@@ -1,0 +1,13 @@
+name = "Create: Designed Decor"
+filename = "create_designed_decor-1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee7d6e0786425468acf4f11cd1772ecd7f598bb7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6420145
+project-id = 1242374

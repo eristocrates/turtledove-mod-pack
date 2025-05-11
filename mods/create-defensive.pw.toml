@@ -1,0 +1,13 @@
+name = "Create: Defensive"
+filename = "createdefensive-1.6.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3313272b92215482f8351077d114b547084f2f9d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6420976
+project-id = 1242559
