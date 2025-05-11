@@ -1,0 +1,13 @@
+name = "Turtledove Mod Pack"
+author = "eristocrates"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "18e8ddb205c53bc932188bcc34467504450eef64dd71e06b8134c6c8881bcf0a"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"
