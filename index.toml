@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "b6739c257a72fcf427369e8f686f11ccd636edc4ffbaa7c7b0e6c5ee3b290951"
-
-[[files]]
 file = "config/.toolswap"
 hash = "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
 
@@ -5240,34 +5236,6 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "4bcf74d4569def60ca031d565350952c2edcc420f26278bc7997654a77b6fb4d"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "78916cecd4804bad9bbeae8892a2dda0164b53985ad012abbe398d2f026cea8b"
-
-[[files]]
-file = "other/all.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "other/curseforge api.txt"
-hash = "d6847c5233ee5b31243e88c127932b9c1b3f5d4a12c32743a6dd341bb517b080"
-
-[[files]]
-file = "other/curseforge.json"
-hash = "9f96f360a3586ecd7a18945ab8cfe455e0d589ebd555172ebbad913e4de0c1d4"
-
-[[files]]
-file = "other/curseforge.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "other/modrinth.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "other/packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
