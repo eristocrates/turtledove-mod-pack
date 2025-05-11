@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitttributes"
-hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
-
-[[files]]
 file = "README.md"
 hash = "b6739c257a72fcf427369e8f686f11ccd636edc4ffbaa7c7b0e6c5ee3b290951"
 
@@ -5265,32 +5261,28 @@ file = "options.txt"
 hash = "78916cecd4804bad9bbeae8892a2dda0164b53985ad012abbe398d2f026cea8b"
 
 [[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = "packwiz-installer.jar"
-hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
-
-[[files]]
-file = "prismExports/all.txt"
+file = "other/all.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "prismExports/curseforge api.txt"
+file = "other/curseforge api.txt"
 hash = "5d70a211cf947e833232825c1ce066e3175287ee0d23316f63fd38a3190989ab"
 
 [[files]]
-file = "prismExports/curseforge.json"
+file = "other/curseforge.json"
 hash = "9f96f360a3586ecd7a18945ab8cfe455e0d589ebd555172ebbad913e4de0c1d4"
 
 [[files]]
-file = "prismExports/curseforge.txt"
+file = "other/curseforge.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "prismExports/modrinth.txt"
+file = "other/modrinth.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "other/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
