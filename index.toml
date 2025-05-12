@@ -3720,11 +3720,6 @@ hash = "deedd1cac9bb7409e5d5db2c384c0b2c3924185e4a3f6f09996df9f52120a478"
 metafile = true
 
 [[files]]
-file = "mods/create-cyber-goggles.pw.toml"
-hash = "cd4506c84e7d1b69ee9ebb0428ab086a239033ed048b0584e4110007b573eb31"
-metafile = true
-
-[[files]]
 file = "mods/create-deco-additions.pw.toml"
 hash = "217ea0fc85b62cd045628a88db52dfb95d69047014c89772e1fb5881736a3712"
 metafile = true
@@ -4500,11 +4495,6 @@ hash = "ccb79452729ccb62e2a3afa88b80e834411ac1e9ed4712cbd27be6ba98d4ff79"
 metafile = true
 
 [[files]]
-file = "mods/loot-beams.pw.toml"
-hash = "6d432f32a4dd7aa6514e6806453a25bfac9421ff9a2a26a07b8e16bd1e7b653f"
-metafile = true
-
-[[files]]
 file = "mods/loot-geodes.pw.toml"
 hash = "214344b4457d858773dd62db0dde0a3b8e87da066eedd44b30f7b0247745ee31"
 metafile = true
@@ -4725,11 +4715,6 @@ hash = "e586ed7ece00777429172363892eb64d2dee76b41f5c5b84d0ac8e2bdcee7438"
 metafile = true
 
 [[files]]
-file = "mods/panorama-screens.pw.toml"
-hash = "cecb7d0cff7a9a70b83f77de9082d092264db8926e01185b9e56a07bb5bfa5b4"
-metafile = true
-
-[[files]]
 file = "mods/parcool.pw.toml"
 hash = "62282e3824506f87bc9c935b521a7349fc193e0fd28343815c01c26ded3af4f7"
 metafile = true
@@ -4802,11 +4787,6 @@ metafile = true
 [[files]]
 file = "mods/random-village-names.pw.toml"
 hash = "bd33f76ad3bbe85b586ee3980eb9099db7696b4aa236b61a80b5a3977805a65c"
-metafile = true
-
-[[files]]
-file = "mods/real-camera.pw.toml"
-hash = "d1145ed7db5fd48baa139849937a7dc91de0c21670af171899c23c759c26fa5f"
 metafile = true
 
 [[files]]
@@ -4930,11 +4910,6 @@ hash = "860fc3d1f54380f99f3337029b441cc0665c33bdf6356f23a2c9adf21fca3072"
 metafile = true
 
 [[files]]
-file = "mods/sound.pw.toml"
-hash = "4a603693baa20af56faea5e84e47d780b3ac961ead3ab8529e2dd54b42aefea4"
-metafile = true
-
-[[files]]
 file = "mods/spelunkers-charm-ii.pw.toml"
 hash = "da1318e1310fda40e403de8d8283d745bbb1ccca32fd1770d46594da8e7bc017"
 metafile = true
@@ -5015,11 +4990,6 @@ hash = "7c687fd7ea4ec0349cd9eaef886f70e859a7f46b56811e1ada6df56cc6857726"
 metafile = true
 
 [[files]]
-file = "mods/toadlib.pw.toml"
-hash = "5594552d70db2a139ccf453ae7ae4765f31dd6b41ca17f71a60044f32e7ab345"
-metafile = true
-
-[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "131c818cca79586fdca0535062a63581e7c438efd108be4403ab8faea92e6368"
 metafile = true
@@ -5057,11 +5027,6 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "16e2c84951ba32efac8703ccb7b36631b70cb514d402fa8fb4f89031f2a63a58"
-metafile = true
-
-[[files]]
-file = "mods/true-darkness-forge-updated-fork.pw.toml"
-hash = "530e7cf09235590f84335e433bb14bc47265f06ac1d8f27e84a9ac7d63dd10d7"
 metafile = true
 
 [[files]]
