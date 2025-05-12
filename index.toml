@@ -4590,11 +4590,6 @@ hash = "8c0b39fe7dcf2de0a30bc02f07e6c23d500790dc07853be246e057b97065febb"
 metafile = true
 
 [[files]]
-file = "mods/minemenu.pw.toml"
-hash = "3c8e28c58a785e98c329cb31f5f43887ee14bf7dd0b782d35cd71d8f405745d4"
-metafile = true
-
-[[files]]
 file = "mods/mob-captains.pw.toml"
 hash = "f373b4ce7d061335452c16ae4c13cc613ac747f8faa95c1786f45e23152af253"
 metafile = true
