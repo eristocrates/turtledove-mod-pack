@@ -4830,11 +4830,6 @@ hash = "ff629fa547da3fb7943cbf687a939fe3e7c4d43c7141b6fec180cfb45b35fddf"
 metafile = true
 
 [[files]]
-file = "mods/shield-expansion.pw.toml"
-hash = "dcf41b44fb2b0f4e393e2f9a41017aa9b10bd21e804b03218458a07ba70221ca"
-metafile = true
-
-[[files]]
 file = "mods/shinydiabetes-enchantement-pack.pw.toml"
 hash = "a11f8d9fcd9fe8b87894d4ef766151f345147f2f66bd43b096656d48f7b49e99"
 metafile = true
