@@ -3751,7 +3751,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantable-machinery.pw.toml"
-hash = "6b47d727f42a87cb046c36a18146d8ee4472dc1406679a0b180a7c7752010749"
+hash = "6712ff67728cf8f86d190bb86a0b15291ef8965a42077b96f9ff0912ecd28db8"
 metafile = true
 
 [[files]]
@@ -5026,7 +5026,7 @@ metafile = true
 
 [[files]]
 file = "mods/toadlib.pw.toml"
-hash = "84ded57af76b2117a986fc935e201e37d3eb89e43e34ca6ad042875571677d71"
+hash = "06ad30d389c51406aabde6861e13817b04131ed3756b52797ab73eac3cde37aa"
 metafile = true
 
 [[files]]
