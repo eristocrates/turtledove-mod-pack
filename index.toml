@@ -3281,7 +3281,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "354e66b34e726f2f900ffbbd6cf52cafeb2fe31ed934bebae229a10a0359cbd1"
+hash = "a62ba64d6ffe14e5140cc357cb175b51f278d022fbab681a0580982e72378751"
 metafile = true
 
 [[files]]
@@ -3411,7 +3411,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "f2772ac30db5760b191049f87d2315f1652d9b04357e644df9d8a2bafdc269e5"
+hash = "291bb45ee845d23aaf87c25500b46419fd21973bf93e77d8644ef04bf9e53106"
 metafile = true
 
 [[files]]
@@ -3446,7 +3446,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "2bcea8e16d358942a8f8b8cf6e39cc303d90fac29b1b3ecb8033bd214d4afa0f"
+hash = "b0119b17c7c9a075780d55dc87749942a835365db5578102d6250db8875e8267"
 metafile = true
 
 [[files]]
@@ -3990,6 +3990,11 @@ hash = "16adcd779e8cf3e206f1e42b2ce1cce18aaf2b786257cb04eafefbe5991a8345"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+metafile = true
+
+[[files]]
 file = "mods/curio-attribute.pw.toml"
 hash = "7bd5a3d8a493e8e95f7b6cc5c415f9a97bad45421ad6bead01a2d36dd8e15829"
 metafile = true
@@ -4072,6 +4077,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons-enhanced.pw.toml"
 hash = "f1e7e8e7488a42eaa88067b8dc00bafcbbd32d02ef4acea6539fcf35e63e2de7"
+metafile = true
+
+[[files]]
+file = "mods/dungeonsenhanced.pw.toml"
+hash = "7ed550adeeb4a7a12e124d63e44ef23e24292254f312e64686df8b42827b6f18"
 metafile = true
 
 [[files]]
@@ -4301,7 +4311,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersiveengineering.pw.toml"
-hash = "f0f53a142295b7d004100bea2cf0f60b06854b40eddc9abb8a447db4e57d4883"
+hash = "fcb27576964bc17e215bd6b0514e77186f553582f476656c84f57dc96be76a5e"
 metafile = true
 
 [[files]]
@@ -4476,7 +4486,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "58e837db042fdd848e6f3b759f1671b2c9671fc9fbbf868f7a1753dc033e9dd4"
+hash = "be126314758f0ff2a70b56825f698c9ea6a72ce537d5327a3f013962ec4db352"
 metafile = true
 
 [[files]]
@@ -4761,7 +4771,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "c9b8d127e878c9081d59b21019c3d0fa0a1e02eed5064f3c369479d807604fef"
+hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
 
 [[files]]
