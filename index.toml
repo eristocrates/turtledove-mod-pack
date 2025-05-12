@@ -4076,12 +4076,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-enhanced.pw.toml"
-hash = "f1e7e8e7488a42eaa88067b8dc00bafcbbd32d02ef4acea6539fcf35e63e2de7"
-metafile = true
-
-[[files]]
-file = "mods/dungeonsenhanced.pw.toml"
-hash = "7ed550adeeb4a7a12e124d63e44ef23e24292254f312e64686df8b42827b6f18"
+hash = "f3e9e061d181df49a0190b657491547c2415a65c26f19638a449b8261438e43d"
 metafile = true
 
 [[files]]
