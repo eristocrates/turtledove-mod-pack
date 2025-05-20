@@ -46,7 +46,6 @@ if (Get-Item -Path $modsFile) {
                 Invoke-Expression -Command "echo '$curseforge $url'" 
                 Invoke-Expression -Command "$curseforge $url"
             }
-            Invoke-Expression -Command $rebuild
         }
     }
     Clear-Content -Path $modsFile
@@ -56,4 +55,5 @@ if (Get-Item -Path $modsFile) {
 else {
     Write-Host "File not found: $files" -ForegroundColor Red
 }
+Invoke-Expression -Command $rebuild
 
