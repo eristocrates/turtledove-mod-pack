@@ -1,6 +1,0 @@
-#Maximum number of curios slots
-#Range: > 1
-number_of_slots = 4
-#A list of blocked convertible curios.
-blocked_curios = []
-
