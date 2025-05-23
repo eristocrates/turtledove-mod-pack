@@ -8,8 +8,6 @@ $modsBase = "mods.txt"
 $clientBase = "client.txt"
 $serverBase = "server.txt"
 
-$last = "last"
-
 $modsFile = "$base$modsBase"
 $clientFile = "$base$clientBase"
 $serverFile = "$base$serverBase"
@@ -47,6 +45,8 @@ if (Get-Item -Path $modsFile) {
                 Invoke-Expression -Command "$curseforge $url"
             }
         }
+        Invoke-Expression -Command $rebuild
+
     }
     Clear-Content -Path $modsFile
     Add-Content -Path "$modsFile.done" -Value $urls
@@ -55,5 +55,4 @@ if (Get-Item -Path $modsFile) {
 else {
     Write-Host "File not found: $files" -ForegroundColor Red
 }
-Invoke-Expression -Command $rebuild
 
